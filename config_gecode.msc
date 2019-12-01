@@ -1,0 +1,4 @@
+name = "gecode";
+version = "1.0";
+id = "gecode";
+executable = "fzn-gecode";
