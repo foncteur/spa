@@ -1,7 +1,7 @@
 # spa
 Projet de SPA (solver principles and architecture), 2019
 
-## Fichiers 
+## Fichiers 
 
 Fichiers .ml : parser, main, et un fichier par type de générateur
 
